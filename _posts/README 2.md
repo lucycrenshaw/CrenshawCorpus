@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Data Dictionary"
+date:   2021-03-03 07:13:13 -0500
+categories: jekyll update
+---
 # The Classical Quarterly
 
 * *years*: 1907-1925
