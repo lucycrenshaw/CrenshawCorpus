@@ -4,7 +4,9 @@
 
 layout: home
 ---
-* *years*: 1907-1925
+# The Classical Quarterly
+
+* *Years*: 1907-1925
 * *Number of Volumes*: 19
 * *Number of Words*: 5251
 
