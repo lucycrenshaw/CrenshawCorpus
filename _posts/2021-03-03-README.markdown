@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Corpus README.md"
-date:   2021-03-03 05:29:08 -0500
-categories: 
+layout: page
+title: Corpus Dictionary
+permalink: /Corpus-Dictionary/
 ---
 # The Classical Quarterly
 
