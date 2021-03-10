@@ -36,4 +36,4 @@ The most interesting to me are topics 0, 1, 3, and 6. I will repeat what I have 
 
 The line chart shown below, produced from my pivot table, I think shows the distribution of the 4 topics I chose (0,1,3,6) across the various issues. If this is correct, it is perhaps interesting that they spike across years, issues, and volumes.
 
-![Topics across issues - topic modeling](CrenshawCorpus/_site/assets/PivotTableTopicModeling.jpg)
+![Topics across issues - topic modeling](CrenshawCorpus/_site/assets/PivotTableTopicModeling.jpg){:class="img-responsive"}
